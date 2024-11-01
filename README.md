@@ -1,5 +1,3 @@
----
-
 # Ad Campaign Performance Analysis
 
 ## Project Overview
@@ -88,5 +86,3 @@ This analysis provides clear, data-driven recommendations for ad platform select
 ## Future Scope
 
 This analysis can be expanded by incorporating audience demographic information or conducting time-series forecasting to predict future ad performance based on seasonality trends.
-
----
